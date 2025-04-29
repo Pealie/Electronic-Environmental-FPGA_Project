@@ -3,7 +3,7 @@
 **Introduction**
 
 <p align="center">
-  <img src="media/image1.jpeg" alt="Cherry trees under polytunnels" width="60%">
+  <img src="../media/image1.jpeg" alt="Cherry trees under polytunnels" width="60%">
 </p>
 
 ([[EM007 - FPGA-based Irrigation System for Soft Fruit Farms -
