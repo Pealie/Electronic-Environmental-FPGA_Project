@@ -1,0 +1,5 @@
+
+set_global_assignment -name FAMILY "Cyclone V"
+set_global_assignment -name DEVICE 5CSEBA6U23I7
+set_global_assignment -name TOP_LEVEL_ENTITY IrrigationControl
+set_global_assignment -name VHDL_FILE fpga_control.vhdl
