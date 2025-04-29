@@ -44,4 +44,4 @@ This project is released under the MIT License. See [`LICENSE`](LICENSE) for mor
 ## Acknowledgements
 
 Developed by Team Thomson for the InnovateFPGA challenge. Inspired by the need for precision agriculture solutions that conserve water and improve crop health.
-"# Electronic-Environmental-FPGA_Project" 
+
