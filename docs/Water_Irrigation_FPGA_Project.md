@@ -1,4 +1,4 @@
-*FPGA-Based Irrigation System for Soft Fruit Farms**
+*FPGA-Based Irrigation System for Soft Fruit Farms*
 
 **Introduction**
 
