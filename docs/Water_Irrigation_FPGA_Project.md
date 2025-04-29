@@ -1,10 +1,8 @@
-*FPGA-Based Irrigation System for Soft Fruit Farms*
+# FPGA-Based Irrigation System for Soft Fruit Farms
 
 **Introduction**
 
-<p align="center">
-  <img src="../media/image1.jpeg" alt="Cherry trees under polytunnels" width="60%">
-</p>
+![](media/image1.jpeg){width="4.4in" height="2.933333333333333in"}
 
 ([[EM007 - FPGA-based Irrigation System for Soft Fruit Farms -
 InnovateFPGA]{.underline}](http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=EM007))
