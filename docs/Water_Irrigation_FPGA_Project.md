@@ -2,7 +2,9 @@
 
 **Introduction**
 
-![](../media/image1.jpeg){width="4.4in" height="2.933333333333333in"}
+<p align="center">
+  <img src="../media/image1.jpeg" alt="Cherry trees under polytunnels" width="60%">
+</p>
 
 ([[EM007 - FPGA-based Irrigation System for Soft Fruit Farms -
 InnovateFPGA]{.underline}](http://www.innovatefpga.com/cgi-bin/innovate/teams.pl?Id=EM007))
