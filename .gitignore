@@ -1,0 +1,41 @@
+# Ignore build outputs
+/output/
+*.rpt
+*.log
+*.sof
+*.pof
+*.jic
+*.smsg
+*.summary
+*.csv
+
+# Quartus database and temporary files
+db/
+incremental_db/
+*.qws
+*.qpf
+*.qsf
+*.qip
+
+# Simulation output
+*.vcd
+*.vpd
+*.wlf
+
+# ModelSim/Questa temporary files
+work/
+transcript
+vsim.wlf
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# OS/system files
+Thumbs.db
